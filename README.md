@@ -8,6 +8,7 @@ Linux (Ubuntu Server, Kali), Nmap, Wireshark, Python, Flask
 
 ## Progress
 Day 1: VMware lab set up, Ubuntu Server installed, SSH working
+Day 2: Linux commands practise to create files and append text on them
 
 ## Note
 All testing is done on virtual machines we own.
